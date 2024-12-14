@@ -113,12 +113,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-14 07:22:41 +0000"
-    },
-    "done": false
-  },
   "undead_revamp2:parry": {
     "criteria": {
       "parry": "2024-12-14 07:13:45 +0000"
@@ -142,6 +136,12 @@
       "diamond_chestplate": "2024-12-14 07:17:21 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-14 07:23:50 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
@@ -217,6 +217,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 06:20:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-14 07:23:50 +0000"
     },
     "done": true
   },

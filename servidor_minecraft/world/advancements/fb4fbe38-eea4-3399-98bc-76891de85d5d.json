@@ -221,6 +221,7 @@
       "mutton": "2024-12-14 06:16:02 +0000",
       "bread": "2024-12-13 19:38:22 +0000",
       "golden_apple": "2024-12-13 20:47:13 +0000",
+      "melon_slice": "2024-12-14 07:30:58 +0000",
       "mushroom_stew": "2024-12-14 07:04:56 +0000",
       "rabbit_stew": "2024-12-14 07:08:49 +0000",
       "carrot": "2024-12-13 19:58:25 +0000"
@@ -329,7 +330,8 @@
       "minecraft:vindicator": "2024-12-13 20:29:51 +0000",
       "minecraft:spider": "2024-12-13 20:11:16 +0000",
       "minecraft:husk": "2024-12-14 06:19:59 +0000",
-      "minecraft:zombie": "2024-12-14 07:15:46 +0000"
+      "minecraft:zombie": "2024-12-14 07:15:46 +0000",
+      "minecraft:zombie_villager": "2024-12-14 07:42:37 +0000"
     },
     "done": false
   },
@@ -420,6 +422,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-14 06:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-14 07:40:42 +0000"
     },
     "done": true
   },
