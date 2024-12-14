@@ -804,3 +804,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:40:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [A Seedy Place]
 [14Dec2024 07:44:52.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Baby Skeleton
 [14Dec2024 07:44:53.033] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[14Dec2024 07:47:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Quite the Renovation]
+[14Dec2024 07:49:15.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was blown up by Faller
+[14Dec2024 07:49:15.139] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[14Dec2024 07:51:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
