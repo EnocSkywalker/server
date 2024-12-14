@@ -143,6 +143,7 @@
       "minecraft:stony_shore": "2024-12-14 06:08:56 +0000",
       "minecraft:cold_ocean": "2024-12-13 19:38:58 +0000",
       "minecraft:forest": "2024-12-13 20:01:48 +0000",
+      "minecraft:lush_caves": "2024-12-14 06:58:28 +0000",
       "minecraft:ice_spikes": "2024-12-13 19:21:12 +0000",
       "minecraft:jungle": "2024-12-13 20:37:36 +0000",
       "minecraft:ocean": "2024-12-13 20:19:24 +0000",
@@ -220,6 +221,8 @@
       "mutton": "2024-12-14 06:16:02 +0000",
       "bread": "2024-12-13 19:38:22 +0000",
       "golden_apple": "2024-12-13 20:47:13 +0000",
+      "mushroom_stew": "2024-12-14 07:04:56 +0000",
+      "rabbit_stew": "2024-12-14 07:08:49 +0000",
       "carrot": "2024-12-13 19:58:25 +0000"
     },
     "done": false
@@ -353,6 +356,18 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2024-12-14 06:50:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-14 07:07:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-14 06:14:14 +0000"
@@ -371,9 +386,39 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-14 06:52:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-14 07:02:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-14 07:02:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-14 07:05:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-14 06:08:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-14 06:43:27 +0000"
     },
     "done": true
   },

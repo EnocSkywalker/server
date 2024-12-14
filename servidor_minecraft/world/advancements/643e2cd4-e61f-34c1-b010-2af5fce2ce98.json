@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-14 06:57:55 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-14 06:02:33 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-14 06:57:12 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2024-12-14 06:02:33 +0000"
@@ -119,11 +131,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-14 07:04:17 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-14 06:02:36 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 06:58:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-14 07:02:39 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -133,9 +163,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-14 06:18:25 +0000"
+      "minecraft:skeleton": "2024-12-14 06:18:25 +0000",
+      "minecraft:cave_spider": "2024-12-14 07:07:56 +0000",
+      "minecraft:zombie_villager": "2024-12-14 07:03:41 +0000"
     },
     "done": false
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2024-12-14 07:04:51 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/christmas": {
     "criteria": {
@@ -152,6 +190,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 06:20:48 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-14 06:57:56 +0000"
     },
     "done": true
   },
@@ -186,6 +230,7 @@
       "minecraft:river": "2024-12-14 06:09:43 +0000",
       "minecraft:stony_shore": "2024-12-14 06:09:29 +0000",
       "minecraft:forest": "2024-12-14 06:09:58 +0000",
+      "minecraft:lush_caves": "2024-12-14 06:56:37 +0000",
       "minecraft:jungle": "2024-12-14 06:12:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 06:09:30 +0000",
       "minecraft:savanna": "2024-12-14 06:40:42 +0000",
@@ -193,9 +238,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-14 07:10:25 +0000"
+    },
+    "done": true
+  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2024-12-14 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight": "2024-12-14 07:05:06 +0000"
     },
     "done": true
   },
@@ -226,7 +283,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-14 06:32:35 +0000",
-      "bread": "2024-12-14 06:11:31 +0000"
+      "bread": "2024-12-14 06:11:31 +0000",
+      "golden_apple": "2024-12-14 06:53:38 +0000",
+      "melon_slice": "2024-12-14 06:48:18 +0000"
     },
     "done": false
   },
@@ -263,6 +322,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-14 06:18:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 07:12:23 +0000"
     },
     "done": true
   },
