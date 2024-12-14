@@ -654,3 +654,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 06:02:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported TuMaridoOtilio to Enocskywalker]
 [14Dec2024 06:02:51.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
 [14Dec2024 06:03:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Suit Up]
+[14Dec2024 06:03:30.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14Dec2024 06:03:58.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[14Dec2024 06:04:16.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[14Dec2024 06:04:19.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 06:04:19.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  op TuMaridoOtilio/ op TuMaridoOtilio<--[HERE]
+[14Dec2024 06:04:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TuMaridoOtilio a server operator
+[14Dec2024 06:05:24.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Lightning Dragon
+[14Dec2024 06:05:24.296] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[14Dec2024 06:06:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was energized by Lightning Dragon
+[14Dec2024 06:06:12.193] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[14Dec2024 06:08:30.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Mine? Mine? Mine?]
+[14Dec2024 06:09:32.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Mine? Mine? Mine?]
+[14Dec2024 06:11:30.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7765, l='ServerLevel[world]', x=892.50, y=71.00, z=-81.50]
+[14Dec2024 06:11:51.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7831, l='ServerLevel[world]', x=897.50, y=70.00, z=-78.50]
+[14Dec2024 06:11:53.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7845, l='ServerLevel[world]', x=896.50, y=76.00, z=-93.50]
+[14Dec2024 06:12:07.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[14Dec2024 06:12:15.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8059, l='ServerLevel[world]', x=1069.50, y=70.00, z=-27.50]
+[14Dec2024 06:12:25.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[14Dec2024 06:12:44.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[14Dec2024 06:13:02.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
+[14Dec2024 06:13:20.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
+[14Dec2024 06:13:39.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
+[14Dec2024 06:13:59.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14Dec2024 06:14:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [This Must be a Sign!]
+[14Dec2024 06:14:30.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [This Must be a Sign!]
