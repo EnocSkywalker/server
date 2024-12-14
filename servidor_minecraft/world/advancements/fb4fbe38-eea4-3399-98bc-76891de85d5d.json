@@ -328,7 +328,8 @@
       "minecraft:skeleton": "2024-12-14 06:24:46 +0000",
       "minecraft:vindicator": "2024-12-13 20:29:51 +0000",
       "minecraft:spider": "2024-12-13 20:11:16 +0000",
-      "minecraft:husk": "2024-12-14 06:19:59 +0000"
+      "minecraft:husk": "2024-12-14 06:19:59 +0000",
+      "minecraft:zombie": "2024-12-14 07:15:46 +0000"
     },
     "done": false
   },
@@ -401,6 +402,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-14 07:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-12-14 07:13:08 +0000"
     },
     "done": true
   },

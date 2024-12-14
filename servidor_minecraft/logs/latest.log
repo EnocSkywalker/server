@@ -792,3 +792,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:13:10.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Eye Spy]
 [14Dec2024 07:13:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Diamonds!]
 [14Dec2024 07:13:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has completed the challenge [+PARRY]
+[14Dec2024 07:17:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Cover Me with Diamonds]
+[14Dec2024 07:19:19.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[14Dec2024 07:21:05.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker drowned
+[14Dec2024 07:21:05.688] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[14Dec2024 07:21:15.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14Dec2024 07:23:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Quite the Renovation]
