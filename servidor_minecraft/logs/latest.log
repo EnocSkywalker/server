@@ -1335,3 +1335,98 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 07:36:30.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
 [16Dec2024 07:36:47.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
 [16Dec2024 07:37:18.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[16Dec2024 07:37:40.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
+[16Dec2024 07:38:25.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Dec2024 07:39:00.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Dec2024 07:39:21.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[16Dec2024 07:39:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Hot Stuff]
+[16Dec2024 07:39:37.635] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:39:37.638] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:39:43.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
+[16Dec2024 07:40:05.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16Dec2024 07:40:22.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[16Dec2024 07:40:41.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Dec2024 07:40:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has completed the challenge [Well, that was disgusting]
+[16Dec2024 07:40:59.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[16Dec2024 07:41:18.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4600ms or 92 ticks behind
+[16Dec2024 07:41:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio hit the ground too hard
+[16Dec2024 07:41:33.895] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:41:35.381] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:41:35.384] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:41:44.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16Dec2024 07:42:06.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[16Dec2024 07:42:09.631] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:42:28.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[16Dec2024 07:42:46.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[16Dec2024 07:43:04.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[16Dec2024 07:43:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy has made the advancement [We Need to Go Deeper]
+[16Dec2024 07:43:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy has made the advancement [Incendium]
+[16Dec2024 07:43:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to TuMaridoOtilio]
+[16Dec2024 07:43:21.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[16Dec2024 07:43:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to Enocskywalker]
+[16Dec2024 07:43:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy has reached the goal [A Metropolis of Restless Souls]
+[16Dec2024 07:43:30.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:43:30.953] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:43:34.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to TuMaridoOtilio]
+[16Dec2024 07:43:34.626] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:43:34.638] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:43:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 07:43:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has reached the goal [A Metropolis of Restless Souls]
+[16Dec2024 07:43:40.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3780ms or 75 ticks behind
+[16Dec2024 07:43:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to Enocskywalker]
+[16Dec2024 07:43:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy has made the advancement [Sneak 100]
+[16Dec2024 07:44:15.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to Enocskywalker]
+[16Dec2024 07:44:24.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to TuMaridoOtilio]
+[16Dec2024 07:44:34.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to TuMaridoOtilio]
+[16Dec2024 07:44:37.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elzgloy lost connection: Disconnected
+[16Dec2024 07:44:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy left the game
+[16Dec2024 07:44:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:44:59.620] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:45:00.891] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:45:02.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:45:09.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elzgloy[/127.50.20.75:48925] logged in with entity id 110898 at (1669.6477267754522, -51.0, -277.69999998807907)
+[16Dec2024 07:45:09.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy joined the game
+[16Dec2024 07:45:13.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:45:13.353] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:45:14.537] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:45:15.858] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:45:20.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[16Dec2024 07:45:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Warden
+[16Dec2024 07:45:22.224] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 07:45:24.084] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:45:24.738] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:45:31.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:45:31.638] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:45:33.124] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:45:33.186] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:45:40.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[16Dec2024 07:45:40.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elzgloy lost connection: Disconnected
+[16Dec2024 07:45:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy left the game
+[16Dec2024 07:45:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:45:55.121] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:45:57.655] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:45:58.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:46:14.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:46:14.240] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:46:17.221] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:46:17.633] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:46:20.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[16Dec2024 07:46:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:46:30.424] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:46:33.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:46:36.082] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:46:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:46:44.229] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:46:46.847] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:46:47.987] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:46:51.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[16Dec2024 07:47:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:47:08.986] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:47:12.481] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:47:12.766] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:47:17.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Dec2024 07:47:23.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:47:23.670] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:47:25.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:47:26.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:47:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has completed the challenge [Phantom Thief]
