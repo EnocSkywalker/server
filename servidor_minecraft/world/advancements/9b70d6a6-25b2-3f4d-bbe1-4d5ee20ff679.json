@@ -136,6 +136,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-13 20:07:18 +0000",
       "minecraft:taiga": "2024-12-13 20:05:07 +0000",
       "minecraft:birch_forest": "2024-12-13 20:36:38 +0000",
+      "minecraft:bamboo_jungle": "2024-12-16 06:52:08 +0000",
       "minecraft:beach": "2024-12-13 19:58:21 +0000",
       "minecraft:dark_forest": "2024-12-13 20:18:46 +0000",
       "minecraft:sparse_jungle": "2024-12-13 20:37:40 +0000",
@@ -323,6 +324,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:vindicator": "2024-12-13 20:20:54 +0000",
+      "minecraft:spider": "2024-12-16 06:59:13 +0000",
       "minecraft:evoker": "2024-12-13 20:24:53 +0000"
     },
     "done": false
@@ -375,21 +377,15 @@
     },
     "done": true
   },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-16 06:27:21 +0000"
     },
     "done": true
   },
-  "aether:valkyrie_loot": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "valkyrie_shovel": "2024-12-16 06:42:56 +0000"
+      "has_magic_tablet": "2024-12-16 06:29:44 +0000"
     },
     "done": true
   },
@@ -405,15 +401,117 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "aether:silver_dungeon": {
     "criteria": {
-      "has_magic_tablet": "2024-12-16 06:29:44 +0000"
+      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_shovel": "2024-12-16 06:42:56 +0000"
     },
     "done": true
   },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2024-12-16 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 07:05:39 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-16 06:52:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-16 06:52:06 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-16 06:51:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 06:51:30 +0000"
     },
     "done": true
   },

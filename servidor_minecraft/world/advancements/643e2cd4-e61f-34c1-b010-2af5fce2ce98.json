@@ -486,15 +486,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "crying_obsidian": "2024-12-16 05:18:52 +0000"
+      "coded_trigger": "2024-12-16 04:26:41 +0000"
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "distract_piglin": "2024-12-16 05:17:37 +0000"
+      "sugarcoat": "2024-12-16 04:52:08 +0000"
     },
     "done": true
   },
@@ -516,57 +516,9 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/border_of_life": {
-    "criteria": {
-      "requirement": "2024-12-16 05:11:32 +0000"
-    },
-    "done": true
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2024-12-16 06:23:25 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-16 05:15:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-16 05:57:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-12-16 05:48:00 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat": "2024-12-16 04:52:08 +0000"
-    },
-    "done": true
-  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2024-12-16 05:06:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-16 05:46:50 +0000"
     },
     "done": true
   },
@@ -576,33 +528,15 @@
     },
     "done": false
   },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_chestplate": "2024-12-16 06:44:14 +0000"
-    },
-    "done": true
-  },
   "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
       "requirement": "2024-12-16 05:10:00 +0000"
     },
     "done": true
   },
-  "aether:zanite": {
+  "incendium:infernal_dunes/border_of_life": {
     "criteria": {
-      "zanite": "2024-12-16 06:29:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-16 04:26:41 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2024-12-16 06:15:17 +0000"
+      "requirement": "2024-12-16 05:11:32 +0000"
     },
     "done": true
   },
@@ -612,9 +546,87 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-16 05:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-16 05:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-16 05:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-16 05:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-16 05:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-16 05:57:27 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-16 06:15:17 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-16 06:23:25 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2024-12-16 06:23:25 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-16 06:29:38 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2024-12-16 06:44:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 06:56:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 06:56:31 +0000"
     },
     "done": true
   },

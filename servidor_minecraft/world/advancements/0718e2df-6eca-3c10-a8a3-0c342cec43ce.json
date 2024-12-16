@@ -170,6 +170,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 07:01:42 +0000",
       "porkchop": "2024-12-13 20:57:15 +0000",
       "apple": "2024-12-13 20:41:54 +0000",
       "bread": "2024-12-13 19:33:39 +0000",
@@ -324,27 +325,33 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-12-16 06:41:02 +0000"
-    },
-    "done": true
-  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2024-12-16 06:23:32 +0000"
     },
     "done": true
   },
-  "aether:silver_dungeon": {
+  "aether:the_aether": {
     "criteria": {
-      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
+      "the_aether": "2024-12-16 06:23:32 +0000"
     },
     "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-16 06:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-16 06:41:02 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
     },
     "done": true
   },
@@ -378,9 +385,21 @@
     },
     "done": true
   },
-  "aether:the_aether": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "the_aether": "2024-12-16 06:23:32 +0000"
+      "diamond_helmet": "2024-12-16 06:54:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-16 06:57:53 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-16 07:00:52 +0000"
     },
     "done": true
   },
