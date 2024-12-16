@@ -138,6 +138,7 @@
       "quark:glimmering_weald": "2024-12-16 07:32:45 +0000",
       "minecraft:birch_forest": "2024-12-13 20:36:42 +0000",
       "minecraft:wooded_badlands": "2024-12-16 07:30:24 +0000",
+      "minecraft:badlands": "2024-12-16 08:11:03 +0000",
       "minecraft:beach": "2024-12-13 19:15:38 +0000",
       "minecraft:dark_forest": "2024-12-13 20:18:48 +0000",
       "minecraft:sparse_jungle": "2024-12-13 20:37:39 +0000",
@@ -690,6 +691,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-16 07:23:44 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-16 08:06:43 +0000"
     },
     "done": true
   },
