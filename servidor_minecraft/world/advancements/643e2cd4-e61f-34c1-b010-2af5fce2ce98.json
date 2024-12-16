@@ -178,6 +178,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 05:56:43 +0000",
       "cooked_beef": "2024-12-14 06:32:35 +0000",
       "apple": "2024-12-14 08:13:49 +0000",
       "potato": "2024-12-16 04:59:51 +0000",
@@ -223,6 +224,7 @@
       "minecraft:skeleton": "2024-12-14 06:18:25 +0000",
       "minecraft:hoglin": "2024-12-14 08:15:29 +0000",
       "minecraft:spider": "2024-12-14 07:21:16 +0000",
+      "minecraft:piglin_brute": "2024-12-16 05:47:40 +0000",
       "quark:forgotten": "2024-12-14 07:21:01 +0000",
       "minecraft:phantom": "2024-12-14 08:15:08 +0000",
       "minecraft:zombified_piglin": "2024-12-16 05:07:16 +0000",
@@ -231,6 +233,7 @@
       "minecraft:cave_spider": "2024-12-14 07:07:56 +0000",
       "minecraft:piglin": "2024-12-16 05:23:44 +0000",
       "minecraft:zombie": "2024-12-14 07:14:01 +0000",
+      "quark:foxhound": "2024-12-16 05:56:14 +0000",
       "minecraft:zombie_villager": "2024-12-14 07:03:41 +0000"
     },
     "done": false
@@ -483,6 +486,78 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 06:12:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-16 05:18:52 +0000"
@@ -525,6 +600,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-16 05:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-16 05:48:00 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2024-12-16 04:52:08 +0000"
@@ -534,6 +621,12 @@
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2024-12-16 05:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-16 05:46:50 +0000"
     },
     "done": true
   },

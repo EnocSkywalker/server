@@ -335,6 +335,7 @@
       "minecraft:hoglin": "2024-12-14 08:15:52 +0000",
       "minecraft:vindicator": "2024-12-13 20:29:51 +0000",
       "minecraft:spider": "2024-12-13 20:11:16 +0000",
+      "minecraft:piglin_brute": "2024-12-16 05:47:38 +0000",
       "minecraft:phantom": "2024-12-14 08:17:32 +0000",
       "minecraft:husk": "2024-12-14 06:19:59 +0000",
       "minecraft:piglin": "2024-12-16 05:23:21 +0000",
@@ -537,63 +538,9 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-16 05:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-12-16 05:36:18 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-16 04:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-16 05:10:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/border_of_life": {
-    "criteria": {
-      "requirement": "2024-12-16 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2024-12-16 05:00:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2024-12-16 05:09:32 +0000"
     },
     "done": true
   },
@@ -603,9 +550,93 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 05:00:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2024-12-16 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-12-16 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-16 05:10:18 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:medium": "2024-12-16 05:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-16 05:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-16 05:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-16 05:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-16 05:48:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-16 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 05:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-16 05:58:45 +0000"
     },
     "done": true
   },
