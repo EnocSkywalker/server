@@ -1430,3 +1430,125 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 07:47:25.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
 [16Dec2024 07:47:26.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
 [16Dec2024 07:47:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has completed the challenge [Phantom Thief]
+[16Dec2024 07:47:54.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[16Dec2024 07:48:17.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7864ms or 157 ticks behind
+[16Dec2024 07:49:43.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Warden
+[16Dec2024 07:49:43.416] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:49:44.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:49:46.159] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:49:50.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[16Dec2024 07:49:58.961] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:50:12.260] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:50:47.186] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:51:05.363] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:51:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was obliterated by a sonically-charged shriek
+[16Dec2024 07:51:06.134] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:51:07.318] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:51:08.183] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:51:12.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[16Dec2024 07:51:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was obliterated by a sonically-charged shriek
+[16Dec2024 07:51:51.129] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:51:51.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuMaridoOtilio moved wrongly!
+[16Dec2024 07:51:52.262] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:51:52.322] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:51:56.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Dec2024 07:52:08.612] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 07:52:14.193] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:32.982] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:44.186] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:47.436] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was obliterated by a sonically-charged shriek
+[16Dec2024 07:52:47.947] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:52:49.134] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:52:50.168] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:53:05.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 07:53:13.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 07:53:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by The Glitter
+[16Dec2024 07:53:40.797] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 07:53:42.925] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:53:43.810] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:53:53.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 07:53:53.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:53:53.995] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:54:07.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16Dec2024 07:54:15.670] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:54:24.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16Dec2024 07:54:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Flexible Schedule]
+[16Dec2024 07:56:06.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[16Dec2024 07:56:24.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Dec2024 07:57:13.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was burnt to a crisp whilst fighting Direwolf
+[16Dec2024 07:57:13.453] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 07:57:14.852] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:57:14.861] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:57:26.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Dec2024 07:58:09.686] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[16Dec2024 07:58:13.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Dec2024 07:58:15.145] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[16Dec2024 07:59:05.971] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:59:08.515] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 08:00:09.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16Dec2024 08:00:27.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[16Dec2024 08:00:44.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[16Dec2024 08:01:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Zombie Bruiser
+[16Dec2024 08:01:04.799] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 08:01:06.505] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 08:01:07.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 08:01:15.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[16Dec2024 08:01:33.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[16Dec2024 08:01:54.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[16Dec2024 08:02:18.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
+[16Dec2024 08:02:20.291] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[16Dec2024 08:02:26.102] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[16Dec2024 08:02:26.112] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[16Dec2024 08:02:26.112] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
+[16Dec2024 08:02:26.113] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[16Dec2024 08:02:30.405] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
+[16Dec2024 08:02:30.407] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[16Dec2024 08:02:30.408] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[16Dec2024 08:02:30.409] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[16Dec2024 08:02:30.409] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[16Dec2024 08:02:30.410] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[16Dec2024 08:02:30.410] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[16Dec2024 08:02:30.411] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[16Dec2024 08:02:30.411] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
+[16Dec2024 08:02:30.412] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
+[16Dec2024 08:02:33.301] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[16Dec2024 08:02:33.302] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[16Dec2024 08:02:33.303] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[16Dec2024 08:02:33.303] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[16Dec2024 08:02:38.295] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
+[16Dec2024 08:02:38.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7015983[id=<null>,name=Elzgloy,properties={},legacy=false] (/127.50.20.75:33659) lost connection: Disconnected
+[16Dec2024 08:02:40.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[16Dec2024 08:03:04.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9446ms or 188 ticks behind
+[16Dec2024 08:03:22.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[16Dec2024 08:03:35.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Troll
+[16Dec2024 08:03:35.334] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 08:03:37.943] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 08:03:41.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuMaridoOtilio moved too quickly! 7.858320929894944,-2.6754387601295093,6.1297779314514855
+[16Dec2024 08:03:44.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7096ms or 141 ticks behind
+[16Dec2024 08:04:02.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[16Dec2024 08:04:10.041] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=2245, y=69, z=661}
+[16Dec2024 08:04:16.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2245, y=68, z=660} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[16Dec2024 08:04:16.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=2245, y=68, z=660}
+[16Dec2024 08:04:16.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2245, y=69, z=660} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[16Dec2024 08:04:16.006] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=2245, y=69, z=660}
+[16Dec2024 08:04:16.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2245, y=69, z=661} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[16Dec2024 08:04:16.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2245, y=69, z=661}
+[16Dec2024 08:04:28.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10985ms or 219 ticks behind
+[16Dec2024 08:04:49.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6152ms or 123 ticks behind
+[16Dec2024 08:04:59.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Who You Gonna Call?]
+[16Dec2024 08:05:07.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
+[16Dec2024 08:05:27.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was doomed to fall by Husk
+[16Dec2024 08:05:27.425] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 08:05:31.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9544ms or 190 ticks behind
+[16Dec2024 08:05:39.062] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 08:06:06.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19765ms or 395 ticks behind
+[16Dec2024 08:06:09.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Zombie
+[16Dec2024 08:06:09.125] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 08:06:12.386] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 08:06:15.901] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 08:06:31.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10050ms or 201 ticks behind
+[16Dec2024 08:06:43.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Mine Turtle!]
+[16Dec2024 08:06:56.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10046ms or 200 ticks behind
+[16Dec2024 08:07:21.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind

@@ -133,7 +133,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "quark:glimmering_weald": "2024-12-16 07:43:47 +0000",
       "minecraft:birch_forest": "2024-12-14 06:09:49 +0000",
+      "minecraft:wooded_badlands": "2024-12-16 07:50:35 +0000",
       "minecraft:sparse_jungle": "2024-12-14 06:02:45 +0000",
       "minecraft:river": "2024-12-14 06:09:43 +0000",
       "minecraft:stony_shore": "2024-12-14 06:09:29 +0000",
@@ -141,6 +143,7 @@
       "minecraft:lush_caves": "2024-12-14 06:56:37 +0000",
       "minecraft:jungle": "2024-12-14 06:12:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 06:09:30 +0000",
+      "minecraft:deep_dark": "2024-12-16 07:43:38 +0000",
       "minecraft:savanna": "2024-12-14 06:40:42 +0000",
       "minecraft:plains": "2024-12-14 06:02:36 +0000"
     },
@@ -184,7 +187,8 @@
       "potato": "2024-12-16 04:59:51 +0000",
       "bread": "2024-12-14 06:11:31 +0000",
       "golden_apple": "2024-12-14 06:53:38 +0000",
-      "melon_slice": "2024-12-14 06:48:18 +0000"
+      "melon_slice": "2024-12-14 06:48:18 +0000",
+      "golden_carrot": "2024-12-16 07:53:18 +0000"
     },
     "done": false
   },
@@ -438,7 +442,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-12-14 08:15:08 +0000"
+      "phantom": "2024-12-14 08:15:08 +0000",
+      "warden": "2024-12-16 07:47:36 +0000"
     },
     "done": false
   },
@@ -630,6 +635,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-16 07:43:38 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2024-12-16 07:40:44 +0000"
@@ -642,9 +653,21 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-16 07:47:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-16 07:13:39 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-16 07:43:38 +0000"
     },
     "done": true
   },
