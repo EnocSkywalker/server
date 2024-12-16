@@ -528,6 +528,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-16 06:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-16 05:15:16 +0000"
@@ -569,6 +575,12 @@
       "incendium:infernal_dunes": "2024-12-16 05:06:02 +0000"
     },
     "done": false
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2024-12-16 06:44:14 +0000"
+    },
+    "done": true
   },
   "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
