@@ -216,6 +216,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 05:10:09 +0000",
       "beef": "2024-12-13 19:25:56 +0000",
       "porkchop": "2024-12-14 06:13:59 +0000",
       "apple": "2024-12-13 19:24:33 +0000",
@@ -329,6 +330,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-16 05:09:32 +0000",
       "minecraft:skeleton": "2024-12-14 06:24:46 +0000",
       "minecraft:hoglin": "2024-12-14 08:15:52 +0000",
       "minecraft:vindicator": "2024-12-13 20:29:51 +0000",
@@ -528,79 +530,80 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-16 05:06:33 +0000",
       "minecraft:warped_forest": "2024-12-14 08:40:42 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 05:01:34 +0000"
+      "log_spam_fixer": "2024-12-16 05:11:38 +0000"
     },
     "done": false
   },
@@ -610,9 +613,45 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-16 05:10:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2024-12-16 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2024-12-16 05:00:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-16 05:08:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-12-16 05:09:32 +0000"
     },
     "done": true
   },

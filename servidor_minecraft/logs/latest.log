@@ -689,3 +689,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 05:00:05.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [16Dec2024 05:00:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
 [16Dec2024 05:00:18.187] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 05:04:55.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Nightmare Fuel]
+[16Dec2024 05:05:29.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[16Dec2024 05:06:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Darude - Firestorm]
+[16Dec2024 05:06:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Strange Biomes]
+[16Dec2024 05:06:10.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[16Dec2024 05:06:31.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[16Dec2024 05:07:07.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/17626, l='ServerLevel[world]', x=159.20, y=64.03, z=-18.66] died: Desert Blaze was slain by TuMaridoOtilio
+[16Dec2024 05:08:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Darude - Firestorm]
+[16Dec2024 05:08:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Strange Biomes]
+[16Dec2024 05:09:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Light-Sensitive]
+[16Dec2024 05:09:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has completed the challenge [Border of Life]
+[16Dec2024 05:09:32.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/18975, l='ServerLevel[world]', x=94.38, y=49.00, z=-61.30] died: Desert Blaze was shot by Enocskywalker
+[16Dec2024 05:10:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Light-Sensitive]
+[16Dec2024 05:10:00.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19000, l='ServerLevel[world]', x=93.17, y=55.83, z=-76.44] died: Desert Blaze was slain by TuMaridoOtilio
+[16Dec2024 05:10:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Not Today, Thank You]
+[16Dec2024 05:10:28.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19231, l='ServerLevel[world]', x=77.15, y=54.64, z=-50.70] died: Desert Blaze was slain by TuMaridoOtilio
+[16Dec2024 05:10:38.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19229, l='ServerLevel[world]', x=73.30, y=56.95, z=-54.70] died: Desert Blaze was slain by Enocskywalker
+[16Dec2024 05:10:52.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19230, l='ServerLevel[world]', x=82.54, y=51.36, z=-47.70] died: Desert Blaze was slain by Enocskywalker
+[16Dec2024 05:11:16.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19399, l='ServerLevel[world]', x=69.67, y=56.57, z=-70.50] died: Desert Blaze was slain by Enocskywalker
+[16Dec2024 05:11:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has completed the challenge [Border of Life]
+[16Dec2024 05:11:32.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19398, l='ServerLevel[world]', x=79.25, y=49.16, z=-70.22] died: Desert Blaze was slain by TuMaridoOtilio
+[16Dec2024 05:11:40.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19492, l='ServerLevel[world]', x=52.90, y=65.44, z=-68.38] died: Desert Blaze was slain by Enocskywalker
+[16Dec2024 05:12:37.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19626, l='ServerLevel[world]', x=5.66, y=79.39, z=-28.56] died: Desert Blaze was slain by TuMaridoOtilio
