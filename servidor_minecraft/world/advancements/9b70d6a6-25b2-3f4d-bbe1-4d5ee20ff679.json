@@ -345,9 +345,9 @@
     },
     "done": false
   },
-  "aether:enter_aether": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "enter_aether": "2024-12-16 06:23:29 +0000"
+      "coded_trigger": "2024-12-16 06:11:03 +0000"
     },
     "done": true
   },
@@ -357,15 +357,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "aether:enter_aether": {
     "criteria": {
-      "coded_trigger": "2024-12-16 06:11:03 +0000"
+      "enter_aether": "2024-12-16 06:23:29 +0000"
     },
     "done": true
   },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2024-12-16 06:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-16 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 06:27:21 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-16 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-16 06:30:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-16 06:29:44 +0000"
     },
     "done": true
   },

@@ -859,3 +859,92 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 06:23:34.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FLUTTERSHYunu moved too quickly! 1.297110374624026,-10.320455505588043,0.8887539116915377
 [16Dec2024 06:24:13.711] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
 [16Dec2024 06:24:14.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Dec2024 06:25:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FLUTTERSHYunu: Teleported FLUTTERSHYunu to TuMaridoOtilio]
+[16Dec2024 06:25:25.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Enocskywalker) moved too quickly! 0.01238858265833187,-320.0080980968981,0.00844731300341195
+[16Dec2024 06:25:25.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Enocskywalker) moved too quickly! -0.0021117390551808057,-320.2580980968981,-0.28693083799061725
+[16Dec2024 06:25:25.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Enocskywalker) moved too quickly! -0.01996632982650226,-320.5080980968981,-0.5847534136661743
+[16Dec2024 06:25:25.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Enocskywalker) moved too quickly! -0.036731264237005234,-320.7580980968981,-0.8849425431013103
+[16Dec2024 06:25:25.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Dec2024 06:25:26.672] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:25:30.598] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:25:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker fell from a high place
+[16Dec2024 06:25:37.787] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 06:25:41.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:25:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu has made the advancement [Not Today, Thank You]
+[16Dec2024 06:25:44.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[16Dec2024 06:26:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to Elzgloy]
+[16Dec2024 06:26:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[16Dec2024 06:26:35.362] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:26:40.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Dec2024 06:26:41.174] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:26:42.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FLUTTERSHYunu moved too quickly! 0.0,-11.026982712340214,0.0
+[16Dec2024 06:26:46.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FLUTTERSHYunu was kicked for floating too long!
+[16Dec2024 06:26:46.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FLUTTERSHYunu lost connection: Flying is not enabled on this server
+[16Dec2024 06:26:46.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu left the game
+[16Dec2024 06:26:58.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[16Dec2024 06:27:02.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FLUTTERSHYunu[/127.167.186.209:54487] logged in with entity id 59047 at (1838.3251306430268, 155.58866962134383, 128.9147540952046)
+[16Dec2024 06:27:02.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu joined the game
+[16Dec2024 06:27:02.648] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:27:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported FLUTTERSHYunu to Elzgloy]
+[16Dec2024 06:27:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu fell from a high place
+[16Dec2024 06:27:11.979] [Server thread/INFO] [tombstone/]: The player FLUTTERSHYunu has successfully been saved
+[16Dec2024 06:27:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[16Dec2024 06:27:19.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5215ms or 104 ticks behind
+[16Dec2024 06:27:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu has reached the goal [A Fast Comeback]
+[16Dec2024 06:27:21.015] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:27:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FLUTTERSHYunu: Teleported FLUTTERSHYunu to Enocskywalker]
+[16Dec2024 06:28:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FLUTTERSHYunu: Teleported FLUTTERSHYunu to Enocskywalker]
+[16Dec2024 06:28:14.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[16Dec2024 06:29:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Don't Count Your Moas...]
+[16Dec2024 06:29:38.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Exotic Hardware]
+[16Dec2024 06:29:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu has made the advancement [Where Is The Stone Pen?]
+[16Dec2024 06:29:51.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu has made the advancement [Exotic Hardware]
+[16Dec2024 06:30:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 06:30:53.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu has made the advancement [Don't Count Your Moas...]
+[16Dec2024 06:31:09.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elzgloy: Teleported Elzgloy to Enocskywalker]
+[16Dec2024 06:31:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:31:23.776] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 06:31:44.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy has made the advancement [Acquire Hardware]
+[16Dec2024 06:32:15.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 06:33:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Valkyrie
+[16Dec2024 06:33:07.782] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 06:33:10.309] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:33:12.977] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:33:14.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Valkyrie
+[16Dec2024 06:33:14.549] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 06:33:15.877] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:33:15.881] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:33:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Dec2024 06:33:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:33:16.959] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 06:33:18.495] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:33:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:33:36.322] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 06:33:42.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu was slain by Valkyrie
+[16Dec2024 06:33:42.415] [Server thread/INFO] [tombstone/]: The player FLUTTERSHYunu has successfully been saved
+[16Dec2024 06:33:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Valkyrie
+[16Dec2024 06:33:50.089] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 06:33:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:33:52.988] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 06:33:53.209] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:33:54.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[16Dec2024 06:33:54.494] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:34:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu was slain by Valkyrie
+[16Dec2024 06:34:03.503] [Server thread/INFO] [tombstone/]: The player FLUTTERSHYunu has successfully been saved
+[16Dec2024 06:34:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Valkyrie
+[16Dec2024 06:34:04.185] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 06:34:06.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:34:06.349] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:34:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:34:06.467] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
+[16Dec2024 06:34:12.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[16Dec2024 06:34:30.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Valkyrie
+[16Dec2024 06:34:30.879] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 06:34:33.058] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:34:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Valkyrie
+[16Dec2024 06:34:33.446] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 06:34:34.923] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 06:34:37.123] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:34:37.124] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 06:34:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elzgloy was slain by Valkyrie
+[16Dec2024 06:34:57.244] [Server thread/INFO] [tombstone/]: The player Elzgloy has successfully been saved
