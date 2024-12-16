@@ -1281,3 +1281,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 07:06:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu joined the game
 [16Dec2024 07:06:03.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
 [16Dec2024 07:06:03.730] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:06:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu was slain by Elzgloy
+[16Dec2024 07:06:13.660] [Server thread/INFO] [tombstone/]: The player FLUTTERSHYunu has successfully been saved
+[16Dec2024 07:06:18.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16Dec2024 07:06:20.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:06:20.817] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:07:57.478] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:07:59.364] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:08:01.807] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:09:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio blew up
+[16Dec2024 07:09:09.502] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 07:09:12.436] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:09:12.439] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:10:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FLUTTERSHYunu: Teleported FLUTTERSHYunu to Elzgloy]
+[16Dec2024 07:10:13.644] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:10:13.646] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:10:25.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FLUTTERSHYunu lost connection: Disconnected
+[16Dec2024 07:10:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FLUTTERSHYunu left the game
+[16Dec2024 07:13:39.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Splintering II]
+[16Dec2024 07:15:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Enraged Troll
+[16Dec2024 07:15:46.797] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 07:15:48.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:15:48.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
