@@ -481,6 +481,18 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-16 05:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-16 05:17:37 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy": "2024-12-16 04:52:49 +0000"
@@ -502,6 +514,12 @@
   "incendium:infernal_dunes/border_of_life": {
     "criteria": {
       "requirement": "2024-12-16 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-16 05:15:16 +0000"
     },
     "done": true
   },
@@ -532,6 +550,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-16 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2024-12-16 05:14:05 +0000"
     },
     "done": true
   },

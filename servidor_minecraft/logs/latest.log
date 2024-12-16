@@ -712,3 +712,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 05:11:32.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19398, l='ServerLevel[world]', x=79.25, y=49.16, z=-70.22] died: Desert Blaze was slain by TuMaridoOtilio
 [16Dec2024 05:11:40.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19492, l='ServerLevel[world]', x=52.90, y=65.44, z=-68.38] died: Desert Blaze was slain by Enocskywalker
 [16Dec2024 05:12:37.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/19626, l='ServerLevel[world]', x=5.66, y=79.39, z=-28.56] died: Desert Blaze was slain by TuMaridoOtilio
+[16Dec2024 05:13:02.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[16Dec2024 05:13:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was doomed to fall by Crimson Mosquito
+[16Dec2024 05:13:15.409] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 05:13:18.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 05:13:23.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Dec2024 05:14:05.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has reached the goal [Piglin Pillage]
+[16Dec2024 05:14:48.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker fell from a high place
+[16Dec2024 05:14:48.694] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[16Dec2024 05:14:52.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 05:15:00.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16Dec2024 05:15:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Ice Bucket Challenge]
+[16Dec2024 05:15:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[16Dec2024 05:16:18.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/17874, l='ServerLevel[world]', x=-4.95, y=51.00, z=-31.91] died: Village Brewer tried to swim in lava
+[16Dec2024 05:16:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio burned to death
+[16Dec2024 05:16:21.022] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[16Dec2024 05:16:23.290] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 05:16:27.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Dec2024 05:17:17.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [Piglin Pillage]
+[16Dec2024 05:17:37.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Oh Shiny]
+[16Dec2024 05:18:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Who is Cutting Onions?]
