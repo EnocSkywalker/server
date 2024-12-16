@@ -1303,3 +1303,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 07:15:46.797] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
 [16Dec2024 07:15:48.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
 [16Dec2024 07:15:48.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:21:21.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:22:57.416] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/63749, l='ServerLevel[world]', x=1781.31, y=0.08, z=-93.33, removed=DISCARDED]
+[16Dec2024 07:23:03.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/2837, l='ServerLevel[world]', x=1749.88, y=-4.00, z=109.46, removed=DISCARDED]
+[16Dec2024 07:23:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [Bone Crusher]
+[16Dec2024 07:25:33.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[16Dec2024 07:25:38.623] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[16Dec2024 07:25:39.983] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[16Dec2024 07:26:00.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12210ms or 244 ticks behind
