@@ -133,9 +133,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2024-12-16 08:31:56 +0000",
       "quark:glimmering_weald": "2024-12-16 07:43:47 +0000",
       "minecraft:birch_forest": "2024-12-14 06:09:49 +0000",
       "minecraft:wooded_badlands": "2024-12-16 07:50:35 +0000",
+      "minecraft:badlands": "2024-12-16 08:31:07 +0000",
       "minecraft:sparse_jungle": "2024-12-14 06:02:45 +0000",
       "minecraft:river": "2024-12-14 06:09:43 +0000",
       "minecraft:stony_shore": "2024-12-14 06:09:29 +0000",
@@ -636,6 +638,79 @@
       "coded_trigger": "2024-12-16 06:56:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-16 08:33:31 +0000",
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 08:33:20 +0000"
+    },
+    "done": false
   },
   "deeperdarker:main/root": {
     "criteria": {
