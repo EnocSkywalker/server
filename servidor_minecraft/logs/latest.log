@@ -732,3 +732,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 05:17:17.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [Piglin Pillage]
 [16Dec2024 05:17:37.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Oh Shiny]
 [16Dec2024 05:18:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Who is Cutting Onions?]
+[16Dec2024 05:23:21.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/17809, l='ServerLevel[world]', x=11.47, y=33.00, z=-36.65] died: Piglin Civilian was slain by Enocskywalker
+[16Dec2024 05:23:31.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/25031, l='ServerLevel[world]', x=1.33, y=33.00, z=-22.81] died: Desert Blaze was shot by Enocskywalker
+[16Dec2024 05:23:44.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/18460, l='ServerLevel[world]', x=5.86, y=52.00, z=-8.28] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:24:58.008] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[16Dec2024 05:30:23.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Dec2024 05:30:31.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26464, l='ServerLevel[world]', x=-218.54, y=61.00, z=36.50] died: Piglin Civilian burned to death
+[16Dec2024 05:30:48.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Dec2024 05:32:11.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
