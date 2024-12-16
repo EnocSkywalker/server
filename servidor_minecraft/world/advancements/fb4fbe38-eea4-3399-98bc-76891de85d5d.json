@@ -144,6 +144,7 @@
       "minecraft:sparse_jungle": "2024-12-13 20:37:39 +0000",
       "minecraft:river": "2024-12-13 19:28:03 +0000",
       "minecraft:stony_shore": "2024-12-14 06:08:56 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 08:19:36 +0000",
       "minecraft:cold_ocean": "2024-12-13 19:38:58 +0000",
       "minecraft:forest": "2024-12-13 20:01:48 +0000",
       "minecraft:lush_caves": "2024-12-14 06:58:28 +0000",
@@ -472,6 +473,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-16 08:21:37 +0000",
       "in_better_monster_room": "2024-12-14 07:47:54 +0000"
     },
     "done": false
@@ -697,6 +699,12 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-12-16 08:06:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-16 08:21:37 +0000"
     },
     "done": true
   },
