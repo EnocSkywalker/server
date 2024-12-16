@@ -312,15 +312,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 06:11:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-16 06:11:38 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "aether:enter_aether": {
     "criteria": {
-      "coded_trigger": "2024-12-16 06:11:25 +0000"
+      "enter_aether": "2024-12-16 06:23:32 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-16 06:23:32 +0000"
     },
     "done": true
   },
