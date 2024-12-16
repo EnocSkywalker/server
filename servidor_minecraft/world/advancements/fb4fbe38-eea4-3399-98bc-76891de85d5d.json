@@ -537,6 +537,18 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-16 05:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-16 05:36:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-16 04:26:04 +0000"

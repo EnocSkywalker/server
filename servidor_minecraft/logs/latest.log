@@ -740,3 +740,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 05:30:31.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26464, l='ServerLevel[world]', x=-218.54, y=61.00, z=36.50] died: Piglin Civilian burned to death
 [16Dec2024 05:30:48.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [16Dec2024 05:32:11.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Dec2024 05:34:37.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/19045, l='ServerLevel[world]', x=-44.97, y=45.00, z=-2.51] died: Village Guard was slain by TuMaridoOtilio
+[16Dec2024 05:34:38.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19046, l='ServerLevel[world]', x=-43.84, y=45.00, z=-2.11] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:34:39.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/18462, l='ServerLevel[world]', x=-44.22, y=45.00, z=-1.81] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:36:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[16Dec2024 05:36:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Oh Shiny]
+[16Dec2024 05:37:45.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Who is Cutting Onions?]
+[16Dec2024 05:39:14.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26622, l='ServerLevel[world]', x=-250.15, y=62.00, z=27.09] died: Piglin Civilian was slain by Enocskywalker
+[16Dec2024 05:42:15.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26300, l='ServerLevel[world]', x=-241.56, y=66.00, z=8.98] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:42:20.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26303, l='ServerLevel[world]', x=-243.35, y=64.00, z=8.64] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:42:21.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26507, l='ServerLevel[world]', x=-242.49, y=65.00, z=9.57] died: Piglin Civilian was slain by TuMaridoOtilio
+[16Dec2024 05:42:24.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/26462, l='ServerLevel[world]', x=-244.65, y=64.00, z=9.50] died: Piglin Civilian was slain by TuMaridoOtilio
