@@ -807,6 +807,18 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "swarm_spider": "2024-12-21 09:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-21 09:34:19 +0000"
+    },
+    "done": true
+  },
   "ad_astra:tier_1_rocket": {
     "criteria": {
       "has_tier_1_rocket": "2024-12-21 08:53:02 +0000"
@@ -828,6 +840,12 @@
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2024-12-21 08:54:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-12-21 09:34:54 +0000"
     },
     "done": true
   },
