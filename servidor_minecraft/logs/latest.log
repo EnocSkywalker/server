@@ -14538,3 +14538,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 07:40:55.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7919ms or 158 ticks behind
 [21Dec2024 07:41:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
 [21Dec2024 07:42:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[21Dec2024 07:42:43.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[21Dec2024 07:43:06.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7580ms or 151 ticks behind
+[21Dec2024 07:43:34.682] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[21Dec2024 07:43:35.083] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[21Dec2024 07:44:09.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio fell from a high place
+[21Dec2024 07:44:11.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[21Dec2024 07:44:12.056] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:44:12.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enocskywalker moved too quickly! -4.748193415976402,3.2468000194787976,8.446091559002397
+[21Dec2024 07:48:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
