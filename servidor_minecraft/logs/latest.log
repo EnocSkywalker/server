@@ -14580,3 +14580,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 09:09:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was struck by lightning
 [21Dec2024 09:09:02.177] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
 [21Dec2024 09:10:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[21Dec2024 09:22:19.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=67, z=48} BlockPos{x=1758, y=65, z=48}
+[21Dec2024 09:22:19.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=67, z=48} BlockPos{x=1758, y=65, z=48}
+[21Dec2024 09:22:30.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1759, y=66, z=50} BlockPos{x=1758, y=65, z=51}
+[21Dec2024 09:22:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Set the time to 1000]
+[21Dec2024 09:24:04.175] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[21Dec2024 09:24:04.293] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
+[21Dec2024 09:24:04.361] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
+[21Dec2024 09:24:04.421] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
+[21Dec2024 09:24:15.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11906ms or 238 ticks behind
+[21Dec2024 09:24:16.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuMaridoOtilio lost connection: Disconnected
+[21Dec2024 09:24:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio left the game
+[21Dec2024 09:24:46.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10896ms or 217 ticks behind
+[21Dec2024 09:26:57.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TuMaridoOtilio[/127.212.153.211:56287] logged in with entity id 90697 at (1967.9927662032328, 93.0, 68.648429572269)
+[21Dec2024 09:26:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio joined the game
+[21Dec2024 09:26:59.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[21Dec2024 09:29:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [The Silence of the Forest]
+[21Dec2024 09:34:19.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Best Friends Forever]
+[21Dec2024 09:34:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [The Silence of the Forest]
+[21Dec2024 09:34:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Bug Stomper]
+[21Dec2024 09:35:03.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [Bug Stomper]

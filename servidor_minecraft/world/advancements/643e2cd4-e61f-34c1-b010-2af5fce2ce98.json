@@ -713,5 +713,17 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-12-21 09:29:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-21 09:28:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
