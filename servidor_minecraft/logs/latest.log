@@ -14503,3 +14503,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 07:31:34.089] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
 [21Dec2024 07:31:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Skeleton
 [21Dec2024 07:31:47.328] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:32:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[21Dec2024 07:33:09.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has completed the challenge [I'm not sugar coating it]
+[21Dec2024 07:33:45.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21Dec2024 07:34:44.114] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 07:35:47.042] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=3749, y=99, z=427}
+[21Dec2024 07:35:50.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[21Dec2024 07:35:50.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enocskywalker moved too quickly! -9.811215349838221,2.747796659746271,0.2288017922741119
+[21Dec2024 07:35:51.282] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3749, y=99, z=427} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[21Dec2024 07:35:51.283] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=3749, y=99, z=427}
+[21Dec2024 07:37:32.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21Dec2024 07:37:50.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[21Dec2024 07:37:52.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was slain by Lightning Dragon
+[21Dec2024 07:37:52.123] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:38:07.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[21Dec2024 07:38:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by The Hunter
+[21Dec2024 07:38:16.407] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:38:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was struck with lightning by Lightning Dragon
+[21Dec2024 07:38:39.281] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:38:46.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[21Dec2024 07:38:47.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Lightning Dragon
+[21Dec2024 07:38:47.260] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:39:05.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
+[21Dec2024 07:39:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Lightning Dragon
+[21Dec2024 07:39:23.104] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:39:26.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[21Dec2024 07:39:45.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[21Dec2024 07:39:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was struck with lightning by Lightning Dragon
+[21Dec2024 07:39:46.382] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:40:05.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[21Dec2024 07:40:27.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was energized by Lightning Dragon
+[21Dec2024 07:40:27.677] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:40:32.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[21Dec2024 07:40:55.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7919ms or 158 ticks behind
+[21Dec2024 07:41:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[21Dec2024 07:42:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
