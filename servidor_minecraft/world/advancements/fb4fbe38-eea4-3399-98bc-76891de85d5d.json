@@ -807,5 +807,11 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2024-12-21 08:53:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
