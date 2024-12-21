@@ -14547,3 +14547,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 07:44:12.056] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
 [21Dec2024 07:44:12.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enocskywalker moved too quickly! -4.748193415976402,3.2468000194787976,8.446091559002397
 [21Dec2024 07:48:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[21Dec2024 07:53:30.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [Black or White]
+[21Dec2024 07:53:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [A Small Cemetery]
+[21Dec2024 08:03:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
