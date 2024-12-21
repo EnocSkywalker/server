@@ -650,3 +650,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 06:56:27.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
 [21Dec2024 06:56:50.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
 [21Dec2024 07:00:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [Forlornliest Day of My Life]
+[21Dec2024 07:01:21.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Dec2024 07:01:34.045] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[21Dec2024 07:01:39.850] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[21Dec2024 07:01:44.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8051ms or 161 ticks behind
+[21Dec2024 07:02:05.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enocskywalker: Teleported Enocskywalker to TuMaridoOtilio]
+[21Dec2024 07:02:10.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10218ms or 204 ticks behind
+[21Dec2024 07:02:59.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Lightning Dragon
+[21Dec2024 07:03:00.017] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:03:04.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[21Dec2024 07:03:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was energized by Lightning Dragon
+[21Dec2024 07:03:11.181] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:03:19.856] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=3963, y=96, z=-197}
+[21Dec2024 07:03:28.167] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3962, y=95, z=-197} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[21Dec2024 07:03:28.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3962, y=95, z=-197}
+[21Dec2024 07:03:28.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3962, y=96, z=-197} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[21Dec2024 07:03:28.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3962, y=96, z=-197}
+[21Dec2024 07:03:28.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3963, y=96, z=-197} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[21Dec2024 07:03:28.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=3963, y=96, z=-197}
+[21Dec2024 07:03:31.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11759ms or 235 ticks behind
+[21Dec2024 07:04:31.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 07:07:34.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has made the advancement [What Happens in Las Vegas...]
+[21Dec2024 07:07:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio has made the advancement [What Happens in Las Vegas...]
+[21Dec2024 07:08:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuMaridoOtilio was slain by Skeleton
+[21Dec2024 07:08:15.685] [Server thread/INFO] [tombstone/]: The player TuMaridoOtilio has successfully been saved
+[21Dec2024 07:08:20.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21Dec2024 07:09:07.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker went off with a bang
+[21Dec2024 07:09:07.681] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:09:13.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[21Dec2024 07:09:35.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker went off with a bang
+[21Dec2024 07:09:35.721] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:09:40.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Dec2024 07:09:52.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker went off with a bang
+[21Dec2024 07:09:52.761] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 07:10:00.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind

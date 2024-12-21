@@ -339,6 +339,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-16 05:09:32 +0000",
+      "minecraft:pillager": "2024-12-21 07:09:01 +0000",
       "minecraft:skeleton": "2024-12-14 06:24:46 +0000",
       "minecraft:hoglin": "2024-12-14 08:15:52 +0000",
       "minecraft:vindicator": "2024-12-13 20:29:51 +0000",
@@ -724,6 +725,18 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-16 08:21:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-21 07:00:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2024-12-21 07:07:34 +0000"
     },
     "done": true
   },
