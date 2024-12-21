@@ -813,6 +813,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 09:09:02 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2024-12-21 08:54:52 +0000"

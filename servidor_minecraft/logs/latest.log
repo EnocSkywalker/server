@@ -14576,3 +14576,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 09:03:34.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [21Dec2024 09:04:21.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
 [21Dec2024 09:05:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
+[21Dec2024 09:09:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker has reached the goal [Strong or Careful]
+[21Dec2024 09:09:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enocskywalker was struck by lightning
+[21Dec2024 09:09:02.177] [Server thread/INFO] [tombstone/]: The player Enocskywalker has successfully been saved
+[21Dec2024 09:10:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuMaridoOtilio: Teleported TuMaridoOtilio to Enocskywalker]
